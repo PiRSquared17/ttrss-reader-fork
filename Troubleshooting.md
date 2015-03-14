@@ -1,0 +1,4 @@
+# Troubleshooting #
+
+  1. To get more specific error-messages and additional information about what happens "behind the scenes" when the reader is active you should install the app '''aLogcat''' [from the market](http://market.android.com/details?id=org.jtb.alogcat) or [from the project-page](http://code.google.com/p/alogcat/). It allows the read the device-logs in a handy GUI and you can press Menu->Filter to filter for messages from specific programs. For TTRSS-Reader you can simply filter for all output by adding "ttrss" as a filter
+  1. If you cannot figure out what the problem is or you have found a bug in the software please feel free to a) contact me (see [Contact](https://code.google.com/p/ttrss-reader-fork/#Contact)) or b) open a new issue [here](https://code.google.com/p/ttrss-reader-fork/issues/entry).
